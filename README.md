@@ -1,2 +1,3 @@
-# python
-for learn python code 
+# YOU CAN LEARN CODES FROM THIS REPOSITORY
+
+# [**PYTHON**](/python/)<br>
